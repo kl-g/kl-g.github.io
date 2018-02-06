@@ -2,7 +2,7 @@
 layout: feed
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>KL's Blog</title>
 	<link href="https://kl-g.github.io/blog/atom.xml" rel="self" />
@@ -24,4 +24,4 @@ layout: feed
 		</entry>
 	{% endfor %}
 
-</rss>
+</feed>
